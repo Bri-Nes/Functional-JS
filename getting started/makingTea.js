@@ -10,7 +10,12 @@
  *   =====   WHAT THE HECK IS FUNCTIONAL PROGRAMMING? ======
  *  Functional programming is a style of programming where solutions become simple, isolated functions,
  *  without any side effects outside of the function scope.
+ *
+ *  
+ *
  **/
+
+
 
 /**
  * ======   Purpose of functional programming =======
@@ -58,6 +63,10 @@ const tea4TeamFCC = 40; // :(
 // Add your code above this line
 
 console.log(tea4TeamFCC);
+
+
+
+var ball = "Basketball";
 
 
 
